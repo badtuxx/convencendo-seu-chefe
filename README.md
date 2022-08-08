@@ -108,7 +108,7 @@ LEMBRE-SE DE ENVIAR O EMAIL PARA TODAS AS PESSOAS ENVOLVIDAS NA APROVAÇÃO, NÃ
 
 #### Carta para evento
 
-```bash
+```
 <Nome da pessoa que faz a gestão>, bom dia!
 
 Eu gostaria muito da sua aprovação para que fosse possível a minha participação no evento Kubecon, que irá acontecer entre os dias 17 à 21 de Abril de 2023, em Amsterdam na Holanda.
@@ -143,7 +143,7 @@ Seu_Nome
 
 #### Carta para treinamentos
 
-```bash
+```
 <Nome da pessoa que faz a gestão>, bom dia!
 
 Eu gostaria muito da sua aprovação para que fosse possível a minha participação no treinamento Descomplicando o Kubernetes, da LINUXtips.
