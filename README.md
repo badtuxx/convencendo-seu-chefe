@@ -106,7 +106,7 @@ Eu vou deixar aqui dois exemplos, um para solicitar a aprovação para conferenc
 LEMBRE-SE DE ENVIAR O EMAIL PARA TODAS AS PESSOAS ENVOLVIDAS NA APROVAÇÃO, NÃO DEIXE ISSO SOMENTE NA MÃO DE UMA PESSOA. ;)
 
 
-#### Carta para evento
+#### [Carta para evento](carta-para-evento.txt)
 
 ```
 <Nome da pessoa que faz a gestão>, bom dia!
@@ -141,8 +141,7 @@ Seu_Nome
 ```
 
 
-#### Carta para treinamentos
-
+#### [Carta para treinamento](carta-para-treinamento.txt)
 ```
 <Nome da pessoa que faz a gestão>, bom dia!
 
