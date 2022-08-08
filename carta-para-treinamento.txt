@@ -1,0 +1,34 @@
+#### Carta para treinamentos
+
+<Nome da pessoa que faz a gestão>, bom dia!
+
+Eu gostaria muito da sua aprovação para que fosse possível a minha participação no treinamento Descomplicando o Kubernetes, da LINUXtips.
+
+Eu escolhi esse treinamento por conta do seu conteúdo programático e também por já conhecer a didática do instrutor, pois já acompanho o trabalho dele faz algum tempo.
+
+O conteúdo do treinamento irá me ajudar durante os desafios do dia-a-dia aqui na empresa, afinal a utilização do Kubernetes está cada vez maior e isso demanda melhor conhecimento sobre a plataforma, para extrair o máximo de valor que o Kubernetes pode nos trazer.
+
+E com treinamento irei salvar um bom tempo, afinal serei exposto a todo o conhecimento que preciso adquirir, pois a grade é bem completa e o instrutor tem experiência e autoridade sobre o assunto. O treinamento é 100% prático, fator super importante para que eu possa aprender melhor.
+
+Outro ponto super importante é o networking feito durante o treinamento, pois irei fazer parte de um grupo onde estão todos os ex-alunos do treinamento, ou seja, um bom lugar para tirar as dúvidas e trocar experiências com outras pessoas que estão no mesmo momento que nós.
+
+Gostaria de salientar os pontos mais importantes do treinamento:
+- Conteúdo programático completo
+- Aulas práticas
+- Instrutor com experiência comprovada
+- Certificado internacional
+- Credibilidade do treinamento
+- Networking com instrutor e os demais alunos
+- Online 
+- Tirar dúvidas e compartilhar casos
+
+Todo e qualquer conhecimento adquirido durante o treinamento, eu irei replicar com o time ou com quem mais se interessar.
+
+Caso queira conhecer mais sobre o treinamento, você pode acessar o link abaixo:
+
+**LINK DO TREINAMENTO**
+
+Muito obrigado e espero poder compartilhar com o time, as minhas experiências adquiridas no treinamento.
+
+Abraço,
+Seu_Nome
