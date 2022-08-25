@@ -1,0 +1,37 @@
+#### Carta para treinamentos
+
+<Nome do gestor>, boa tarde
+
+Visando a modernização e otimização dos trabalhos desempenhados por este departamento, gostaria muito de seu empenho para que fosse possível a minha participação e demais colegas que manifestarem interesse nos treinamentos Descomplicando o DevOps e Descomplicando o Gitlab, ambos da da LINUXtips.
+
+A escolha dos treinamentos deu-se pelos conteúdos programáticos serem completos e se encaixarem nas estimativas de modernização de procedimentos e também por já conhecer a didática dos instrutores da empresa, pois acompanho o trabalho deles a algum tempo.
+
+Os treinamentos ajudarão a tomar decisões melhores durante os desafios da modernização da infraestrutura, desenvolvimento e manutenção dos sistemas da instituição, afinal a utilização da prática DevOps é o padrão do mercado e isso demanda conhecimento sobre as tecnologias e procedimentos para extrair o máximo valor do trabalho desempenhado.
+
+Com os treinamentos seremos expostos a todo o conhecimento que precisamos adquirir para iniciar essa nova jornada e tornar a empresa mais efetiva no que tange a estabilidade da infraestrutura e sistemas.
+
+O treinamento é 100% prático e online, fator super importante para que possamos desenvolver as habilidades em conjunto.
+
+Outro ponto super importante é o networking feito durante o treinamento, pois faremos parte de um grupo onde estão todos os ex-alunos do treinamento, ou seja, um bom lugar para tirar as dúvidas e trocar experiências com outras pessoas que estão no mesmo momento que nós.
+
+Gostaria de salientar os pontos mais importantes dos treinamentos:
+    - Conteúdo programático completo
+    - Aulas práticas
+    - Instrutor com experiência comprovada
+    - Certificado internacional
+    - Credibilidade do treinamento
+    - Networking com instrutor e os demais alunos
+    - Online
+    - Tirar dúvidas e compartilhar casos
+
+Todo e qualquer conhecimento adquirido durante os treinamentos, iremos replicar com o restante do time e/ou com quem mais se interessar.
+
+Para conhecer mais sobre o treinamento, acesse os links abaixo:
+
+https://linuxtips.com.br/products/descomplicando-o-devops
+https://linuxtips.com.br/products/treinamento-descomplicando-o-gitlab
+
+Muito obrigado e espero poder compartilhar com o time nas minhas experiências adquiridas no treinamento.
+
+Atenciosamente:
+
